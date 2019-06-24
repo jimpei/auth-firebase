@@ -34,6 +34,8 @@ export default {
       msg: 'app名'
     }
   }
-}
+};
+console.log('debug Footer.vue ');
+
 </script>
 
